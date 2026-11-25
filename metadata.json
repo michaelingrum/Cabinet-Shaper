@@ -1,0 +1,8 @@
+{
+  "name": "Kerno Millwork",
+  "description": "Parametric custom cabinet design studio with real-time 3D inspection, technical orthographic blueprints, sheet-goods nesting, and CNC-ready manufacturing exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
